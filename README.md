@@ -1,1 +1,2 @@
 mySimpleAIprojects
+tekstia taalta komentorivilta
